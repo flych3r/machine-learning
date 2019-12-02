@@ -1,2 +1,2 @@
 # Machine_Learning
-machine learning competitions
+machine learning competitions, projects and practices
