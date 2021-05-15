@@ -1,0 +1,6 @@
+[submodule "dive-into-deep-learning"]
+	path = dive-into-deep-learning
+	url = https://github.com/flych3r/dive-into-deep-learning.git
+[submodule "deep-learning-with-pytorch"]
+	path = deep-learning-with-pytorch
+	url = https://github.com/flych3r/deep-learning-with-pytorch.git
